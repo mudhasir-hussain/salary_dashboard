@@ -38,7 +38,7 @@ It includes detailed information on:
 
 #### 📊 Data Science Job Salaries - Bar Chart
 
-<img src="salary_dashboard/resources/job_chart.png" width="850" height="550" alt="Salary Dashboard Chart1">
+<img src="resources/job_chart.png" width="850" height="550" alt="Salary Dashboard Chart1">
 
 * 🛠️ **Excel Features:** Used a bar chart with formatted salary values to present the data clearly and effectively.
 * 🎨 **Design Choice:** A horizontal bar chart was selected to make comparisons between median salaries easier to interpret.
@@ -47,7 +47,7 @@ It includes detailed information on:
 
 #### 🗺️ Country Median Salaries - Map Chart
 
-![](salary_dashboard/resources/country.gif)
+![](resources/country.gif)
 
 * 🛠️ **Excel Features:** Used Excel's Map Chart feature to visualize median salaries across different countries.
 * 🎨 **Design Choice:** A color-coded map was used to make differences in salary levels easier to identify geographically.
@@ -78,7 +78,7 @@ IF(
 
 🍽️ Background Table
 
-<img src="salary_dashboard/resources/job_table.png" width="400" height="500" alt="Salary Dashboard Title">
+<img src="resources/job_table.png" width="400" height="500" alt="Salary Dashboard Title">
 
 
 
@@ -94,11 +94,11 @@ IF(
 🍽️ Background Table
 
 
-<img src="salary_dashboard/resources/schedule_table.png" width="250" height="200" alt="Salary Dashboard Type">
+<img src="resources/schedule_table.png" width="250" height="200" alt="Salary Dashboard Type">
 
 📉 Dashboard Implementation:
 
-<img src="salary_dashboard/resources/type_chart.png" width="450" height="500" alt="Salary Dashboard Type">
+<img src="resources/type_chart.png" width="450" height="500" alt="Salary Dashboard Type">
 
 ### ❎ Data Validation
 
