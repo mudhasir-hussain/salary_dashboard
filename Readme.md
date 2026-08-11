@@ -1,7 +1,7 @@
 # Excel Salary Dashboard
 
 
-![](salary_dashboard/resources/dashboard_vid.gif)
+![](resources/dashboard_vid.gif)
 
 ## Introduction
 
