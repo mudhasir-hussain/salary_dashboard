@@ -11,7 +11,7 @@ The project uses a real-world dataset from 2023 containing detailed information 
 
 ### Dashboard File
 
-The completed dashboard is available in [Dashboard_salary.xlsx](salary_dashboard/Dashboard_salary.xlsx).
+The completed dashboard is available in [Dashboard_salary.xlsx](Dashboard_salary.xlsx).
 
 ### Excel Skills Used
 
